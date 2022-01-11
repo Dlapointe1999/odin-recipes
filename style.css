@@ -1,0 +1,31 @@
+h1{
+    color:#960c2f;
+    text-align: center;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+img{
+    height: auto;
+    width: 350px;
+}
+.tuna{
+    width: 250px;
+}
+li{
+    color: #9c213f;
+    background-color: slategrey;
+    font-size: 24px;
+}
+a{
+    color: #9c213f
+}
+h3{
+    text-align: center;
+    color: rgb(219, 233, 28);
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: black;
+    color:blue;
+}
