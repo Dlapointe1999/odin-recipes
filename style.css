@@ -10,13 +10,11 @@ img{
 .tuna{
     width: 250px;
 }
-li{
+li,
+a{
     color: #9c213f;
     background-color: slategrey;
     font-size: 24px;
-}
-a{
-    color: #9c213f
 }
 h3{
     text-align: center;
